@@ -2,7 +2,7 @@
 
 ## Landing Page
 
-![image](https://user-images.githubusercontent.com/108793449/234427974-ce1a449b-ac4e-49b2-a299-9050f1c4764e.png)
+![image](https://user-images.githubusercontent.com/108793449/236654241-eb48ea13-17e3-48d6-b22e-4650a0a91cce.png)
 
 ![image](https://user-images.githubusercontent.com/108793449/234428009-5f8db6e8-7dc7-427a-9658-f4a33e30c6e6.png)
 
